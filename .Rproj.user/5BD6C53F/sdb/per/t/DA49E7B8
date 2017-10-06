@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\nsite: blogdown:::blogdown_site\n---\n\n",
+    "created" : 1506033484008.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3998940200",
+    "id" : "DA49E7B8",
+    "lastKnownWriteTime" : 1506036098,
+    "last_content_update" : 1506036098030,
+    "path" : "~/__Rmarkdown/_web/r_machinery/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
